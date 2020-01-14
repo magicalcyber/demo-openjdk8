@@ -44,7 +44,7 @@ public class DemoOpenjdk8Application {
 			long end = System.nanoTime();
 			logger.info("Used time: " + (TimeUnit.NANOSECONDS.toMillis(end - begin)) + " millisecs");
 
-			return ResponseEntity.ok("{status=\"OK\"}");
+			return ResponseEntity.ok("success");
 		}
 	}
 

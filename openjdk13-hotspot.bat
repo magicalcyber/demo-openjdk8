@@ -1,0 +1,1 @@
+C:\Users\kiatt\Programs\Java\OpenJDK\OpenJDK13\jdk-13.0.1+9\bin\java -Xms256m -Xmx2g -jar target\demo-openjdk8-0.0.1-SNAPSHOT.jar

@@ -1,0 +1,1 @@
+C:\Users\kiatt\Programs\Java\OpenJDK\jdk8u232-b09-hotspot\bin\java -Xms256m -Xmx2g -jar target\demo-openjdk8-0.0.1-SNAPSHOT.jar
